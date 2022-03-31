@@ -1,0 +1,24 @@
+[
+    {
+        "id": "321e4567-e89b-12d3-a456-426614174000",
+        "name": "Coca-cola",
+        "description": "Coca-cola de la gamme zéro",
+        "token": "TOKEN123",
+        "price": 2.99,
+        "stock": 267,
+        "reference": "REF_COCA_ZERO_001",
+        "createdAt": "2022-03-31T08:49:08.713Z",
+        "updateAt": "2020-12-10T10:39:18.713Z"
+    },
+    {
+        "id": "321e4567-e89b-12d3-a456-426614174001",
+        "name": "Casque de vélo",
+        "description": "Casque de protection vélo, homme et femme",
+        "token": "TOKEN321",
+        "price": 29.99,
+        "stock": 13,
+        "reference": "REF_BIKE_PROTEC_002",
+        "createdAt": "2022-03-31T08:49:08.713Z",
+        "updateAt": "2020-12-10T10:39:18.713Z"
+    }
+]

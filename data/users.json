@@ -1,0 +1,29 @@
+[
+    {
+        "id": "123e4567-e89b-12d3-a456-426614174000",
+        "name": "Jean",
+        "lastName": "Neymar",
+        "token": "AZERTY1",
+        "role": "ROLE_ADMIN",
+        "createdAt": "2022-03-31T08:49:08.713Z",
+        "updateAt": "2020-12-10T10:39:18.713Z"
+    },
+    {
+        "id": "123e4567-e89b-12d3-a456-426614174001",
+        "name": "Marty",
+        "lastName": "Mcfly",
+        "token": "AZERTY2",
+        "role": "ROLE_SUPER_ADMIN",
+        "createdAt": "2022-03-31T08:49:08.713Z",
+        "updateAt": "2020-12-10T10:39:18.713Z"
+    },
+    {
+        "id": "123e4567-e89b-12d3-a456-426614174002",
+        "name": "Bruce",
+        "lastName": "Wayne",
+        "token": "AZERTY3",
+        "role": "ROLE_USER",
+        "createdAt": "2022-03-31T08:49:08.713Z",
+        "updateAt": "2020-12-10T10:39:18.713Z"
+    }
+]
